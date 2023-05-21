@@ -42,9 +42,6 @@ Add 'd' and 'f'
 a c d f
 Is empty = false Size = 4
 The item at index 2 is d
-CSC111LinkedListADTActivity January 14,
-2023
-2
 --------
 Remove 'c'
 a d f
